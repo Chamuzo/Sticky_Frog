@@ -1,0 +1,47 @@
+Sticky Frog Privacy Policy
+Last updated: March 17, 2026
+
+Thanks for playing Sticky Frog. This Privacy Policy explains what data may be processed when you use the game.
+
+1. Controller
+Sticky Frog
+Contact: wcgames.turf741@passmail.net
+
+2. Data the app may process
+Sticky Frog may process the following data, mainly through Google Play Games services:
+
+- Google Play Games account identifiers (to sign in to the service).
+- Game progress and save data (for example: records, coins, unlocks, and customizations).
+- Basic technical device/service data required for app functionality and security.
+
+3. Purposes
+We use this data to:
+
+- Enable Google Play Games online features (leaderboard/ranking).
+- Save and sync game progress in the cloud (cloud save).
+- Maintain app stability, security, and operation.
+
+4. Third-party services
+Sticky Frog integrates Google Play Games Services, operated by Google.
+
+Google data processing is governed by Google's own policies:
+- Google Privacy Policy: https://policies.google.com/privacy
+- Google Play Games Services Terms: https://developer.android.com/games/pgs/terms
+
+5. Storage
+- Some game data is stored locally on your device.
+- If you use cloud features, progress may also be stored in Google Play Games.
+
+6. Data sharing
+We do not sell personal data.
+Data required for leaderboard and cloud save is shared with Google Play Games to provide those features.
+
+7. Children
+Sticky Frog is not specifically directed to children under 13. If you are a parent/guardian and believe a child's data has been processed improperly, contact us.
+
+8. Rights and contact
+If you have privacy questions, contact:
+wcgames.turf741@passmail.net
+
+9. Changes to this policy
+We may update this Privacy Policy to reflect legal or feature changes. The current version will be published here.
