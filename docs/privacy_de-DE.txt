@@ -1,5 +1,5 @@
-Datenschutzerklarung von Sticky Frog
-Letzte Aktualisierung: 17. Marz 2026
+﻿Datenschutzerklarung von Sticky Frog
+Letzte Aktualisierung: 18. Marz 2026
 
 Danke, dass du Sticky Frog spielst. Diese Datenschutzerklarung beschreibt, welche Daten bei der Nutzung des Spiels verarbeitet werden konnen.
 
@@ -8,40 +8,54 @@ Sticky Frog
 Kontakt: wcgames.turf741@passmail.net
 
 2. Daten, die die App verarbeiten kann
-Sticky Frog kann folgende Daten verarbeiten, vor allem uber Google Play Games:
+Sticky Frog kann folgende Daten direkt und/oder uber Google Play Games Services und Google AdMob verarbeiten:
 
-- Google Play Games-Kontoidentifikatoren (fur die Anmeldung am Dienst).
+- Google Play Games-Kontoidentifikatoren und Profilname (Gamertag).
 - Spielfortschritt und Spielstanddaten (z. B. Rekorde, Munzen, Freischaltungen und Anpassungen).
+- Gerate- oder Werbe-IDs (Advertising ID / AD_ID).
+- Nutzungs- und Interaktionsdaten in der App, die fur Werbung und Messung erforderlich sind.
+- Ungefahrer Standort aus Netzwerk/IP, kein genauer GPS-Standort.
 - Grundlegende technische Gerate-/Dienstedaten, die fur Funktion und Sicherheit erforderlich sind.
 
 3. Zwecke der Verarbeitung
 Wir verwenden diese Daten, um:
 
-- Online-Funktionen von Google Play Games zu ermoglichen (Rangliste/Leaderboard).
+- Online-Funktionen von Google Play Games zu ermoglichen (Anmeldung und Leaderboard).
 - Spielfortschritt in der Cloud zu speichern und zu synchronisieren (Cloud Save).
-- Stabilitat, Sicherheit und Betrieb der App zu gewahrleisten.
+- Anzeigen (Interstitial und Rewarded) uber Google AdMob zu zeigen.
+- Anzeigenleistung und aggregierte Nutzung zu messen (Analytics).
+- Betrugspravention, Sicherheit und Compliance zu gewahrleisten.
+- Stabilitat, Sicherheit und Betrieb der App sicherzustellen.
 
 4. Dienste Dritter
-Sticky Frog nutzt Google Play Games Services von Google.
+Sticky Frog integriert:
+
+- Google Play Games Services
+- Google AdMob
 
 Die Datenverarbeitung durch Google unterliegt den Richtlinien von Google:
 - Google-Datenschutzerklarung: https://policies.google.com/privacy
 - Nutzungsbedingungen fur Google Play Games Services: https://developer.android.com/games/pgs/terms
+- AdMob-Richtlinien: https://support.google.com/admob/answer/6128543
 
-5. Speicherung
+5. Speicherung und Aufbewahrung
 - Ein Teil der Spieldaten wird lokal auf deinem Gerat gespeichert.
-- Bei Nutzung von Cloud-Funktionen kann der Fortschritt auch in Google Play Games gespeichert werden.
+- Bei Nutzung von Cloud-Funktionen konnen Fortschritt und zugehorige Metadaten in Google Play Games gespeichert werden.
+- Anzeigenbezogene Daten konnen von Google AdMob gemaess eigenen Richtlinien und Aufbewahrungsfristen verarbeitet werden.
+- Eigene Daten speichern wir nur so lange, wie es fur den Dienst, Fehlerbehebung und rechtliche Pflichten erforderlich ist.
 
 6. Datenweitergabe
 Wir verkaufen keine personenbezogenen Daten.
-Daten, die fur Rangliste und Cloud Save erforderlich sind, werden zur Bereitstellung dieser Funktionen mit Google Play Games geteilt.
+Daten, die fur Play Games-Funktionen und Werbe-Monetarisierung erforderlich sind, konnen mit Google als Dienstleister geteilt werden.
 
 7. Kinder
 Sticky Frog richtet sich nicht speziell an Kinder unter 13 Jahren. Wenn du Erziehungsberechtigte/r bist und glaubst, dass Daten eines Kindes unzulassig verarbeitet wurden, kontaktiere uns.
 
-8. Rechte und Kontakt
-Bei Fragen zum Datenschutz:
+8. Rechte, Widerruf und Loschung
+Du kannst Informationen oder Loschung von Daten anfragen unter:
 wcgames.turf741@passmail.net
+
+Wenn du Google Play Games nutzt, kannst du zugehorige Daten auch uber die Tools und Richtlinien deines Google-Kontos verwalten oder loschen.
 
 9. Anderungen dieser Richtlinie
 Wir konnen diese Datenschutzerklarung an rechtliche oder funktionale Anderungen anpassen. Die aktuelle Version wird hier veroffentlicht.

@@ -1,5 +1,5 @@
-Politique de confidentialite de Sticky Frog
-Derniere mise a jour : 17 mars 2026
+﻿Politique de confidentialite de Sticky Frog
+Derniere mise a jour : 18 mars 2026
 
 Merci de jouer a Sticky Frog. Cette Politique de confidentialite explique quelles donnees peuvent etre traitees lorsque vous utilisez le jeu.
 
@@ -8,40 +8,54 @@ Sticky Frog
 Contact : wcgames.turf741@passmail.net
 
 2. Donnees que l'application peut traiter
-Sticky Frog peut traiter les donnees suivantes, principalement via les services Google Play Games :
+Sticky Frog peut traiter les donnees suivantes, directement et/ou via Google Play Games Services et Google AdMob :
 
-- Identifiants de compte Google Play Games (pour se connecter au service).
+- Identifiants de compte Google Play Games et nom de profil (gamertag).
 - Progression du jeu et donnees de sauvegarde (par exemple : records, pieces, deblocages et personnalisations).
-- Donnees techniques de base de l'appareil/service necessaires au fonctionnement et a la securite.
+- Identifiants d'appareil ou publicitaires (Advertising ID / AD_ID).
+- Donnees d'utilisation et d'interaction dans l'application necessaires pour la publicite et la mesure.
+- Localisation approximative deduite (par exemple reseau/IP), pas de GPS precis.
+- Donnees techniques de base appareil/service necessaires au fonctionnement et a la securite.
 
 3. Finalites
 Nous utilisons ces donnees pour :
 
-- Activer les fonctionnalites en ligne Google Play Games (classement/leaderboard).
+- Activer les fonctionnalites en ligne Google Play Games (connexion et leaderboard).
 - Sauvegarder et synchroniser la progression dans le cloud (cloud save).
+- Afficher des annonces (interstitial et rewarded) via Google AdMob.
+- Mesurer les performances publicitaires et l'usage agregé (analytique).
+- Prevention de la fraude, securite et conformite.
 - Maintenir la stabilite, la securite et le fonctionnement de l'application.
 
 4. Services tiers
-Sticky Frog integre Google Play Games Services, exploite par Google.
+Sticky Frog integre :
+
+- Google Play Games Services
+- Google AdMob
 
 Le traitement des donnees par Google est regi par ses propres regles :
 - Regles de confidentialite Google : https://policies.google.com/privacy
 - Conditions Google Play Games Services : https://developer.android.com/games/pgs/terms
+- Regles AdMob : https://support.google.com/admob/answer/6128543
 
-5. Stockage
+5. Stockage et conservation
 - Une partie des donnees du jeu est stockee localement sur votre appareil.
-- Si vous utilisez les fonctions cloud, la progression peut egalement etre stockee dans Google Play Games.
+- Si vous utilisez les fonctions cloud, la progression et des metadonnees associees peuvent etre stockees dans Google Play Games.
+- Les donnees liees aux annonces peuvent etre traitees par Google AdMob selon ses propres politiques et durees de conservation.
+- Nous conservons nos propres donnees uniquement le temps necessaire pour fournir le service, resoudre les incidents et respecter les obligations legales.
 
 6. Partage des donnees
 Nous ne vendons pas de donnees personnelles.
-Les donnees necessaires au classement et a la sauvegarde cloud sont partagees avec Google Play Games pour fournir ces fonctionnalites.
+Les donnees necessaires aux fonctions Play Games et a la monetisation publicitaire peuvent etre partagees avec Google en tant que fournisseur de service.
 
 7. Enfants
 Sticky Frog n'est pas specifiquement destine aux enfants de moins de 13 ans. Si vous etes parent/tuteur et pensez que des donnees d'un enfant ont ete traitees de maniere incorrecte, contactez-nous.
 
-8. Droits et contact
-Pour toute question sur la confidentialite :
+8. Droits, revocation et suppression
+Vous pouvez demander des informations ou la suppression de donnees en contactant :
 wcgames.turf741@passmail.net
+
+Si vous utilisez Google Play Games, vous pouvez aussi gerer ou supprimer les donnees associees depuis les outils et politiques de votre compte Google.
 
 9. Modifications de cette politique
 Nous pouvons mettre a jour cette Politique de confidentialite pour refleter des changements legaux ou fonctionnels. La version en vigueur sera publiee ici.
