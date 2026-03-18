@@ -1,0 +1,47 @@
+Politique de confidentialite de Sticky Frog
+Derniere mise a jour : 17 mars 2026
+
+Merci de jouer a Sticky Frog. Cette Politique de confidentialite explique quelles donnees peuvent etre traitees lorsque vous utilisez le jeu.
+
+1. Responsable
+Sticky Frog
+Contact : wcgames.turf741@passmail.net
+
+2. Donnees que l'application peut traiter
+Sticky Frog peut traiter les donnees suivantes, principalement via les services Google Play Games :
+
+- Identifiants de compte Google Play Games (pour se connecter au service).
+- Progression du jeu et donnees de sauvegarde (par exemple : records, pieces, deblocages et personnalisations).
+- Donnees techniques de base de l'appareil/service necessaires au fonctionnement et a la securite.
+
+3. Finalites
+Nous utilisons ces donnees pour :
+
+- Activer les fonctionnalites en ligne Google Play Games (classement/leaderboard).
+- Sauvegarder et synchroniser la progression dans le cloud (cloud save).
+- Maintenir la stabilite, la securite et le fonctionnement de l'application.
+
+4. Services tiers
+Sticky Frog integre Google Play Games Services, exploite par Google.
+
+Le traitement des donnees par Google est regi par ses propres regles :
+- Regles de confidentialite Google : https://policies.google.com/privacy
+- Conditions Google Play Games Services : https://developer.android.com/games/pgs/terms
+
+5. Stockage
+- Une partie des donnees du jeu est stockee localement sur votre appareil.
+- Si vous utilisez les fonctions cloud, la progression peut egalement etre stockee dans Google Play Games.
+
+6. Partage des donnees
+Nous ne vendons pas de donnees personnelles.
+Les donnees necessaires au classement et a la sauvegarde cloud sont partagees avec Google Play Games pour fournir ces fonctionnalites.
+
+7. Enfants
+Sticky Frog n'est pas specifiquement destine aux enfants de moins de 13 ans. Si vous etes parent/tuteur et pensez que des donnees d'un enfant ont ete traitees de maniere incorrecte, contactez-nous.
+
+8. Droits et contact
+Pour toute question sur la confidentialite :
+wcgames.turf741@passmail.net
+
+9. Modifications de cette politique
+Nous pouvons mettre a jour cette Politique de confidentialite pour refleter des changements legaux ou fonctionnels. La version en vigueur sera publiee ici.
